@@ -41,3 +41,7 @@ input {
 .required {
   color: #ff574d;
 }
+
+form {
+  border: 1px solid #fffc63;
+}
