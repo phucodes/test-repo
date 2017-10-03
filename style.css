@@ -13,7 +13,15 @@ img {
   margin: 0 auto;
 }
 
+h1,
+p {
+  text-align: center;
+}
+
 label,
 input {
   display: block;
+  margin: 0 auto;
+  text-align: center;
+  padding: 3px;
 }
