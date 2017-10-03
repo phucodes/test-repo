@@ -1,6 +1,13 @@
 body {
   max-width: 1000px;
   margin: 0 auto;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 1.1em;
+}
+
+h1 {
+  font-weight: 400;
 }
 
 form {
@@ -21,10 +28,13 @@ p {
 label,
 input {
   display: block;
-  margin: 0 auto;
+  margin: 10px auto;
   text-align: center;
   padding: 3px;
   box-sizing: border-box;
+}
+
+.input {
   border: 1px solid #7f7f7f;
 }
 
